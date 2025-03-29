@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'DaniWorld'
 description 'QB Job Manager - Boss Management System'
-version '1.2`
+version '1.2'
 
 shared_scripts {
     '@qb-core/shared/locale.lua',
